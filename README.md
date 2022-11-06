@@ -14,3 +14,6 @@ Conceptual scheme of a bitcoin transaction:
 
 ![bitcoin-payment-schema](https://user-images.githubusercontent.com/92114788/200150795-2e72d230-036b-4be1-a56a-29019c5e8551.png)
 
+![bitcoin-sing](https://user-images.githubusercontent.com/92114788/200150865-52d5d8f9-c688-48d0-b94c-72136853e5be.png)
+
+
