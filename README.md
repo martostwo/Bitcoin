@@ -11,5 +11,6 @@ To upload the transaction, a [Crypto APIs](https://cryptoapis.io/) node is used.
 do `npm i axios bitcore-lib`
 
 Conceptual scheme of a bitcoin transaction:
+
 ![bitcoin-payment-schema](https://user-images.githubusercontent.com/92114788/200150795-2e72d230-036b-4be1-a56a-29019c5e8551.png)
 
