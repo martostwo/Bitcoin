@@ -1,5 +1,5 @@
 # Bitcoin
-Bitcoin transaction with NodeJS.
+Bitcoin transaction with NodeJS. 
 
 This NodeJS project will allow you to create, sign and upload transactions to the [Bitcoin](https://bitcoin.org) blockchain. This code by default creates the transaction on the Testnet but you can switch to the Mainnet by modifying bitcoin.js
 
